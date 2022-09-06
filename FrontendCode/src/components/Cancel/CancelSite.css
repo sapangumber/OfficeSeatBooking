@@ -1,0 +1,32 @@
+.cancel-css{
+     
+    background-image: linear-gradient(#d9f6fa, white);
+    background-size: cover;
+}
+
+
+
+
+
+
+.title-cancel-css{
+  
+        background-color: #ffe0af;
+        height: 13.5vh;
+        border-radius: 12px;
+        box-shadow: 0 0 30px rgba(0,0,0,0.5);
+        margin-bottom: 5rem;
+        
+    
+}
+
+.title-cancel{
+   
+        font-size:4.2rem;
+       margin-left:340px;
+       font-family:Arial, Helvetica, sans-serif;
+       font-weight: 900;
+       /* padding: 350px; */
+      
+  
+}

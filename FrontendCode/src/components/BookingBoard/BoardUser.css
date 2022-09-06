@@ -1,0 +1,26 @@
+.dashboard-css{
+     
+    background-image: linear-gradient(#d9f6fa, white);
+    background-size: cover;
+}
+
+
+
+.title-book-css{
+    background-color: #ffe0af;
+    height: 13.5vh;
+    border-radius: 12px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    margin-bottom: 5rem;
+    
+}
+
+.title-book{
+    font-size:4.0rem;
+   margin-left:24rem;
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: 900;
+ 
+   /* padding: 350px; */
+  
+}

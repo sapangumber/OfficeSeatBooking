@@ -1,0 +1,39 @@
+.table{
+    margin-top: 2rem;
+   
+}
+
+
+
+
+/* tr:nth-child(even){
+
+   background-color: #ffe0af; 
+} */
+
+/* tr:hover {
+    background-color: #ffe0af;
+} */
+
+/* tr:first-child:hover {
+    background-color: ;
+} */
+
+table tbody tr:hover { 
+    background-color: #ffe0af; 
+}
+
+.date-value{
+    width:15.5rem;
+    z-index:auto;
+}
+
+.space{
+    padding:24px;
+}
+
+.card-table {
+    border-radius: 6px;
+}
+
+

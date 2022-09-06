@@ -1,0 +1,82 @@
+
+.main-login{
+  
+    min-height: 60vh;
+    min-width: 70vh;
+   
+    background-image: url('/src/components/images/deskbook.png');
+    z-index: 1;
+    /* background-size: 40% 60%; */
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+   
+   
+    
+}
+
+.login-contain{
+
+    height:44vh;
+    /* width:100vh; */
+    background-image: linear-gradient( 290deg, rgb(242, 242, 248), rgb(199, 226, 230),rgba(0, 0, 0, 0));
+    /* background: linear-gradient( 290deg,rgba(238, 103, 19, 0.677),rgba(237, 178, 96, 0.232) ,rgba(0, 0, 0, 0)); */
+    /* border-radius: 2rem; */
+    margin:11rem auto;
+    box-shadow:0.5rem 0.5rem 5rem -0.5rem  rgb(199, 226, 230);
+    display:flex;
+  
+}
+.button{
+    width:100%;
+    
+    
+}
+.link{
+    text-decoration: none;
+    color:black;
+    
+}
+.link:hover{
+    color: black;
+}
+
+
+
+.user{
+    color:rgb(51, 49, 49);
+    
+  
+}
+
+.usericon{
+   margin-bottom: 2rem;
+   margin-left: 35%;
+
+    
+}
+
+
+
+.login{
+    margin:auto;
+}
+
+.input{
+    border:2px solid rgb(243, 170, 43);
+    border-radius: 0.5em;
+}
+
+
+.field{
+    width:24vw;
+}
+
+.header{
+    font-family: Arial;
+    text-decoration:none;
+    pointer-events: none;
+    
+   
+}
+
+
